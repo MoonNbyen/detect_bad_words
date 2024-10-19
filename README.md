@@ -1,8 +1,8 @@
-# detect_bad_words
-Project: Am I the A-hole? Moral Classification of Reddit Posts This project classifies Reddit posts from the “Am I the A-hole?” (AITA) community to determine whether the poster is perceived as an "Asshole" or "Not the A-hole" based on their post.
-### Project: *Am I the A-hole? A Moral Classification of Reddit Posts*
 
-This project aims to classify posts from the Reddit community "Am I the A-hole?" (AITA) using machine learning models. The objective is to determine whether the poster is perceived as an "Asshole" or "Not the A-hole" based on the content of their post. The process involves data extraction, cleaning, topic modeling, and classification using various machine learning algorithms.
+# Project: *Am I the A-hole? A Moral Classification of Reddit Posts*
+
+This project aims to classify posts from the Reddit community "Am I the A-hole?" (AITA) using machine learning models. The objective is to determine whether the poster is perceived as an "Asshole" or "Not the A-hole" based on the content of their post. The process involves data extraction, cleaning, topic modeling, and classification using various machine learning algorithms. 
+### Link to the code: https://github.com/MoonNbyen/detect_bad_words/blob/main/Dataminingfinal.ipynb
 
 #### Key Components:
 
